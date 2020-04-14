@@ -1,4 +1,4 @@
-## DeutschApp - Login-in Branch
+## DeutschApp
 
 In the project directory, you can run:
 
