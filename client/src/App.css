@@ -1,0 +1,9 @@
+.button {
+    width: 20%;
+    height: 50px;
+}
+.box {
+    width: 500px;
+    height: 500px;
+    background-color: darkslateblue;
+}
